@@ -1,0 +1,5 @@
+variant,configuration,stimulus_wise_accuracy_pct,subject_wise_accuracy_pct,source
+A,No visual supervision,56.81,33.44,"Submitted manuscript, Table III"
+B,Tri-view CLIP without hierarchical routing,58.06,34.40,"Submitted manuscript, Table III"
+C,Hierarchical tri-view,57.92,34.44,"Submitted manuscript, Table III"
+D,Hierarchical tri-view with reliability gate,59.39,36.86,"Submitted manuscript, Table III"

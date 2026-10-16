@@ -1,0 +1,3 @@
+protocol,accuracy_pct,reported_plus_minus_pct,outer_folds,source
+stimulus-wise,59.39,5.07,6,"Submitted manuscript, Section III-A"
+subject-wise,36.86,4.09,5,"Submitted manuscript, Section III-A"

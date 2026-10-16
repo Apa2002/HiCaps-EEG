@@ -1,0 +1,10 @@
+window,start_ms,end_ms,accuracy_pct,source
+W1,0,80,15.97,"Submitted manuscript, Table II"
+W2,48,128,25.56,"Submitted manuscript, Table II"
+W3,96,176,42.36,"Submitted manuscript, Table II"
+W4,144,224,48.75,"Submitted manuscript, Table II"
+W5,192,272,48.33,"Submitted manuscript, Table II"
+W6,240,320,49.86,"Submitted manuscript, Table II"
+W7,288,368,37.78,"Submitted manuscript, Table II"
+W8,336,416,27.22,"Submitted manuscript, Table II"
+W9,384,464,24.58,"Submitted manuscript, Table II"
